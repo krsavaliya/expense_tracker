@@ -8,11 +8,11 @@ const DUMMY_EXPENSES = [
     id: "e1",
     title: "Car Insurance",
     amount: 5599,
-    date: new Date(2023, 1, 2),
+    date: new Date(2021, 12, 2),
   },
-  { id: "e2", title: "T V ", amount: 55999, date: new Date(2023, 1, 2) },
-  { id: "e3", title: "New Desk", amount: 499, date: new Date(2023, 1, 2) },
-  { id: "e4", title: "El Bill", amount: 1599, date: new Date(2023, 1, 2) },
+  { id: "e2", title: "T V ", amount: 55999, date: new Date(2022, 8, 2) },
+  { id: "e3", title: "New Desk", amount: 499, date: new Date(2019, 3, 2) },
+  { id: "e4", title: "El Bill", amount: 1599, date: new Date(2020, 7, 2) },
 ];
 
 function App() {
